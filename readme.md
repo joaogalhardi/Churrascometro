@@ -15,8 +15,8 @@ Churrascômetro🍻
 
 
 <div>
-  <img src="../assets/gifs/Animação.gif" alt="demo" height="425">
-  <img src="../assets/gifs/Animação2.gif"alt="demo" height="425">
+  <img src="./assets/gifs/Animação.gif" alt="demo" height="425">
+  <img src="./assets/gifs/Animação2.gif"alt="demo" height="425">
 </div>
 
 <hr />
