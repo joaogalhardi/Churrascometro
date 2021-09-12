@@ -1,13 +1,11 @@
 
 <h1 align="center">
-<br>
-Churrascômetro 
-<br>
-<br>
-
+Churrascômetro🍻
 </h1>
 
-<p align="center"> Projeto realizado que tem como objetivo calcular a quantidade de carne, bebida</p>
+<p align="center"> Projeto realizado com o objetivo calcular a quantidade de carne, cerveja e outras bebidas de um churrasco baseado na quantidade de adultos, crianças e duração de tempo do evento. </p>
+
+<p align="center">Nesse projeto foi utilizado raciocinio lógico de programação e operações aritméticas.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -15,27 +13,23 @@ Churrascômetro
   </a>
 </p>
 
-[//]: # (Add your gifs/images here:)
+
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="../assets/gifs/Animação.gif" alt="demo" height="425">
+  <img src="../assets/gifs/Animação2.gif"alt="demo" height="425">
 </div>
 
 <hr />
 
-## Features
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+## Tecnologias utilizadas:
 
 - 💹**HTML**  
 - 💹 **CSS** 
 - 💹 **JAVASCRIPT**
 
-## Getting started
-
-Describe here the way to use/install your project
-
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
+
