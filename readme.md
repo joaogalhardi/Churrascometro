@@ -3,9 +3,9 @@
 Churrascômetro🍻
 </h1>
 
-<p align="center"> Projeto realizado com o objetivo calcular a quantidade de carne, cerveja e outras bebidas de um churrasco baseado na quantidade de adultos, crianças e duração de tempo do evento. </p>
+<p align="center"> Project carried out with the objective of calculating the amount of meat, beer and other drinks in a barbecue based on the number of adults, children and duration of the event.</p>
 
-<p align="center">Nesse projeto foi utilizado raciocinio lógico de programação e operações aritméticas.</p>
+<p align="center"> In this project logical reasoning of programming and arithmetic operations was used. </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -21,7 +21,7 @@ Churrascômetro🍻
 
 <hr />
 
-## Tecnologias utilizadas:
+## Technologies:
 
 - 💹**HTML**  
 - 💹 **CSS** 
